@@ -39,6 +39,10 @@ The analysis of 9,994 orders over the span of two years provides insights into s
 - West Leads in Total Annual Sales generating $3.47M revenue in total, outpacing East ($3.26M), Central ($2.08M), and South ($1.98M).
 
 
+<hr style="height: 5px; border: none; background-color: #333;" />
+
+See the raw data and my cleaning in the [Jupyter Notebook](retail_orders.ipynb).<br>
+See the queries I used to analyse the data in [Queries](Analysis.sql).
 
 
 
